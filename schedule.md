@@ -5,7 +5,7 @@ description: The weekly event schedule.
 permalink: /weekly-schedule/
 ---
 
-# Schedule
+# 🗓️ Schedule
 
 | Section   | Classroom   | Day 1 August 1        | Day 2 August 2        | Day 3 August 3        | Day 4 August 4        | Day 5 August 5        |
 |-----------|-------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|

@@ -4,6 +4,6 @@ title: Announcements
 description: A feed containing all of the class announcements.
 ---
 
-# Announcements
+# 📢 Announcements
 
 Keep an eye out for important announcements!
