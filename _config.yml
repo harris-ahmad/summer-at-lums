@@ -43,7 +43,7 @@ collections:
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
+      path: '/summer-at-lums'
       type: staffers
     values:
       layout: staffer
@@ -51,17 +51,17 @@ defaults:
       subpath: '/assets/images/'
       width: 300
   - scope:
-      path: ''
+      path: '/summer-at-lums'
       type: modules
     values:
       layout: module
   - scope:
-      path: ''
+      path: '/summer-at-lums'
       type: schedules
     values:
       layout: schedule
   - scope:
-      path: ''
+      path: '/summer-at-lums'
       type: announcements
     values:
       layout: announcement
