@@ -21,46 +21,72 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
+      - name: Session 1
+        start: 10:00 AM
+        end: 11:15 AM
+        location: 1-01 SAHSOL
+      - name: Session 2
         start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        end: 12:45 PM
+        location: 1-01 SAHSOL
+      - name: Session 3
+        start: 1:45 PM
+        end: 3:15 PM
+        location: 1-01 SAHSOL
   - name: Tuesday
+    events:
+      - name: Session 1
+        start: 10:00 AM
+        end: 11:15 AM
+        location: TBA
+      - name: Session 2
+        start: 11:30 AM
+        end: 12:45 PM
+        location: TBA
+      - name: Session 3
+        start: 1:45 PM
+        end: 3:15 PM
+        location: TBA
   - name: Wednesday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
+      - name: Session 1
+        start: 10:00 AM
+        end: 11:15 AM
+        location: TBA
+      - name: Session 2
         start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        end: 12:45 PM
+        location: TBA
+      - name: Session 3
+        start: 1:45 PM
+        end: 3:15 PM
+        location: TBA
   - name: Thursday
+    events:
+      - name: Session 1
+        start: 10:00 AM
+        end: 11:15 AM
+        location: TBA
+      - name: Session 2
+        start: 11:30 AM
+        end: 12:45 PM
+        location: TBA
+      - name: Session 3
+        start: 1:45 PM
+        end: 3:15 PM
+        location: TBA
   - name: Friday
     events:
-      - name: Lecture
-        start: 9:30 AM
-        end: 10:30 AM
-        location: 150 Wheeler
-      - name: Section
+      - name: Session 1
+        start: 10:00 AM
+        end: 11:15 AM
+        location: TBA
+      - name: Session 2
         start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
-      - name: Office Hours
-        start: 12:30 PM
-        end: 2:00 PM
-        location: 271 Soda
+        end: 12:45 PM
+        location: TBA
+      - name: Session 3
+        start: 1:45 PM
+        end: 3:15 PM
+        location: TBA
 ---
