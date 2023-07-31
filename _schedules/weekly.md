@@ -20,33 +20,20 @@ timeline:
   - '5:30 PM'
 schedule:
   - name: Monday
-    events:
-      - name: Session 1
-        start: 10:00 AM
-        end: 11:15 AM
-        location: 1-01 SAHSOL
-      - name: Session 2
-        start: 11:30 AM
-        end: 12:45 PM
-        location: 1-01 SAHSOL
-      - name: Session 3
-        start: 1:45 PM
-        end: 3:15 PM
-        location: 1-01 SAHSOL
   - name: Tuesday
     events:
       - name: Session 1
         start: 10:00 AM
         end: 11:15 AM
-        location: TBA
+        location: 1-01 SAHSOL
       - name: Session 2
         start: 11:30 AM
         end: 12:45 PM
-        location: TBA
+        location: 1-01 SAHSOL
       - name: Session 3
         start: 1:45 PM
         end: 3:15 PM
-        location: TBA
+        location: 1-01 SAHSOL
   - name: Wednesday
     events:
       - name: Session 1
@@ -77,6 +64,20 @@ schedule:
         location: TBA
   - name: Friday
     events:
+      - name: Session 1
+        start: 10:00 AM
+        end: 11:15 AM
+        location: TBA
+      - name: Session 2
+        start: 11:30 AM
+        end: 12:45 PM
+        location: TBA
+      - name: Session 3
+        start: 1:45 PM
+        end: 3:15 PM
+        location: TBA
+  -name: Saturday
+   events:
       - name: Session 1
         start: 10:00 AM
         end: 11:15 AM

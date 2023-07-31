@@ -8,4 +8,4 @@ meta:
   Office Hours: Via Email
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](mailto:zafar.qazi@lums.edu.pk){: .btn .btn-outline }

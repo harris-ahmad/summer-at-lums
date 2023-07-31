@@ -1,8 +1,20 @@
 ---
-title: Introduction to Java
+title: Session 1
 ---
 
-Sep 28
+**Introduction to the Internet** <br>
+Duration: 75 minutes
+  - Introductions
+  - End-End Journey of a Packet
+  - History of the Internet
+  - Encoding Information
+  - Routing
+  - Class Activity
+
+**15-minute break**
+
+
+<!-- Sess 1
 : [Java & Git](#)
   : [1.1](#)
 
@@ -20,4 +32,5 @@ Oct 1
 Oct 2
 : [Tracing, IntLists, & Recursion](#)
   : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: **HW 1 due**{: .label .label-red } -->
+

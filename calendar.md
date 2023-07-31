@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Calendar
+title: Daily Schedule
 description: Listing of course modules and topics.
+permalink: /daily-schedule/
 ---
 
-# Calendar
+# Daily Schedule
+
 
 {% for module in site.modules %}
 {{ module }}
