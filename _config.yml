@@ -18,8 +18,9 @@ tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Harris Ahmad
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://summer-at-lums.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+domain: summer-at-lums.github.io
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.4
